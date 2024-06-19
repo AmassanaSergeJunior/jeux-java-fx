@@ -39,6 +39,7 @@ public class TriviaGame {
             answerButton.setToggleGroup(answerGroup);
             answerButtons.add(answerButton);
             root.getChildren().add(answerButton);
+
         }
 
         Button submitButton = new Button("Submit");

@@ -21,6 +21,7 @@
 
 .button {
     -fx-background-color: #5a9;
+
     -fx-text-fill: #fff;
     -fx-font-size: 14px;
     -fx-padding: 5 10;

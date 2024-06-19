@@ -74,6 +74,7 @@ public class Login extends Application {
             String url = "jdbc:mysql://localhost:3306/ict308";
             String user = "root";
             String password = " ";
+
             connection = DriverManager.getConnection(url, user, password);
         }
     }

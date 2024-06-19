@@ -10,6 +10,7 @@ public class Quiz {
     private int score;
     private int currentQuestionIndex;
 
+
     public Quiz(List<Question> questions) {
         this.questions = questions;
         this.score = 0;
